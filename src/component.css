@@ -261,6 +261,10 @@ body {
 	margin: 0px 3px;
 }
 
+a.emphasis{text-decoration: underline; color:#f8ab51;}
+a.emphasis:hover{text-decoration: line-through; text-decoration-color:#34495e;}
+
+
 ::selection {
   background: #f8ab51; /* WebKit/Blink Browsers */
 	color: #555555;
